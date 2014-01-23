@@ -1,2 +1,2 @@
-toolkit
-=======
+toolkit - some useful c++ functions
+===================================
